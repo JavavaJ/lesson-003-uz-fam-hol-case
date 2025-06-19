@@ -1,6 +1,6 @@
 🏖️ Holiday Planning: Where Should They Go?
 🎯 Level: Elementary (A1–A2)
-🔧 Skills Practiced: Speaking, Reading, Functional Phrases (likes, wants, doesn't like)
+🔧 Skills Practiced: Speaking, Reading, Functional Phrases (likes, wants, doesn'th like)
 👥 Interaction: Pair or Group Work
 
 ## Foydali iboralar (Useful phrases):
@@ -15,6 +15,33 @@
 - **chunki** - because
 - **lekin** - but
 - **va** - and
+
+## Fikr bildirish va taqqoslash (Expressing opinions and comparing):
+
+### Fikr bildirish (Expressing opinions):
+- **Menimcha...** - I think that...
+- **Mening fikrimcha...** - In my opinion...
+- **Men ishonamanki...** - I believe that...
+- **Menga tuyuladi...** - It seems to me...
+
+### Taqqoslash (Comparing options):
+- **...dan yaxshiroq** - better than...
+- **eng yaxshi variant** - the best option
+- **...ga ko'ra afzalroq** - preferable to...
+- **...uchun eng mos** - most suitable for...
+- **Ispaniya bu oila uchun Kanadadan yaxshiroq variant** - Spain is a better option for this family than Canada
+- **Bu Smith oilasiga eng mos keladi** - This suits the Smiths best
+- **...ga ko'ra ko'proq mos keladi** - suits better than...
+
+### Afzallik va kamchiliklar (Advantages and disadvantages):
+- **afzalligi** - advantage
+- **kamchiligi** - disadvantage  
+- **ijobiy tomoni** - positive side
+- **salbiy tomoni** - negative side
+- **Smith oilasi uchun Ispaniya variantining afzalligi shundaki...** - An advantage of Spain option for the Smiths family is that...
+- **Smith oilasi uchun Ispaniya variantining kamchiligi shundaki...** - A disadvantage of Spain option for the Smiths family is that...
+- **Eng katta afzalligi...** - The biggest advantage is...
+- **Asosiy muammo shundaki...** - The main problem is that...
 
 ✏️ Task Instructions (Student-friendly)
 
